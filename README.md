@@ -10,8 +10,8 @@
 
 URL Github | GitHub Page | Descripción
 ---|---|---
-[Curso básico angular](https://github.com/donis-rafael/curso-angular) | [curso-angular](https://donis-rafael.github.io/curso-angular/) | Proyecto realizado como parte de un proceso de aprendizaje, este proyecto contiene funciones muy básicas de Angular, en la parte inferior hay una descripción de cómo iniciar en Angular, y la fuente de aprendizaje.
-[Curso avanzado angular](https://github.com/donis-rafael/foodmine-course) | [foodmine-course](https://donis-rafael.github.io/foodmine-course/) | Este es un proyecto tipo ECommerce que fue realizado como continuación de un proceso de aprendizaje, este proyecto contiene funciones más avanzadas de Angular, como la creación de diferentes componentes principales como auxiliares, manejo de servicios y consumo de un backend, en la parte inferior de este apartado se encuentra la fuente de aprendizaje y el proceso que se llevó a cabo y al cual se llegó en el desarrollo del mismo.
+[Curso básico angular](https://github.com/donis-rafael/curso-angular) | [curso-angular](https://donis-rafael.github.io/curso-angular/) | Proyecto realizado como parte de un proceso de aprendizaje, este proyecto contiene funciones muy básicas de Angular, en la parte inferior del archivo README.md del proyecto, hay una descripción de cómo iniciar en Angular, y la fuente de aprendizaje.
+[Curso avanzado angular](https://github.com/donis-rafael/foodmine-course) | [foodmine-course](https://donis-rafael.github.io/foodmine-course/) | Este es un proyecto tipo ECommerce que fue realizado como continuación de un proceso de aprendizaje, este proyecto contiene funciones más avanzadas de Angular, como la creación de diferentes componentes principales como auxiliares, manejo de servicios y consumo de un backend, en la parte inferior  del archivo README.md del proyecto, se encuentra la fuente de aprendizaje y el proceso que se llevó a cabo y al cual se llegó en el desarrollo del mismo.
 
 ***
 ***
